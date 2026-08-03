@@ -1,0 +1,78 @@
+site_name: ArteryX Wiki
+site_description: Official ArteryX Survival Wiki
+site_url: https://wiki.arteryx.xyz
+
+theme:
+  name: material
+  language: en
+
+  palette:
+    - scheme: slate
+      primary: black
+      accent: yellow
+
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+  logo: assets/arteryx-logo.png
+  favicon: assets/favicon.png
+
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/FECasTz9zX
+
+    - icon: fontawesome/solid/cart-shopping
+      link: https://store.arteryx.xyz
+
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/arteryxmc
+
+nav:
+  - Home: index.md
+
+  - Getting Started:
+      - Join the Server: getting-started/join.md
+      - Rules: getting-started/rules.md
+      - FAQ: getting-started/faq.md
+
+  - Guides:
+      - Making Money: guides/money.md
+      - Claim Blocks: guides/claims.md
+      - Flux Hopper Guide: guides/hoppers.md
+      - Forge Spawner Guide: guides/spawners.md
+      - Sell Wands: guides/sellwands.md
+      - Seasons: guides/seasons.md
+      - Custom Features: guides/features.md
+      - Limits: guides/limits.md
+
+  - Custom Items:
+      - Custom Items: custom-items/items.md
+
+  - Voting & Community:
+      - Voting: community/voting.md
+      - Rewards: community/rewards.md
+
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
