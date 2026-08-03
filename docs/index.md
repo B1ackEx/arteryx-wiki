@@ -49,9 +49,9 @@ A modern Minecraft survival experience built around progression, community, and 
 <p>Automate your farms and collect resources with advanced hopper upgrades.</p>
 </a>
 
-<a class="feature-card" href="guides/items.md">
+<a class="feature-card" href="custom-items/items.md">
 <div class="emoji">📦</div>
-<h3>Crates</h3>
+<h3>Custom items</h3>
 <p>Unlock exclusive items, collectibles, and progression items.</p>
 </a>
 
