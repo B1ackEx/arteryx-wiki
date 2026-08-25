@@ -52,7 +52,7 @@ nav:
 
   - Guides:
       - Making Money: guides/money.md
-      - Claim Blocks: guides/claims.md
+      - One Blocks: guides/oneblock.md
       - Flux Hopper Guide: guides/hoppers.md
       - Forge Spawner Guide: guides/spawners.md
       - Sell Wands: guides/sellwands.md
