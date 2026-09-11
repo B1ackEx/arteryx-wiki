@@ -47,9 +47,8 @@ All crate keys can be opened at:
 
 Finish the month as the **#1 Voter** to receive:
 
-🏆 **A Custom Chat Tag**
+🏆 **A Custom Chat Tag for 30 days & 5 Arcane Orb**
 
-Choose your own unique tag to stand out across the server.
 
 *(Subject to staff approval.)*
 
