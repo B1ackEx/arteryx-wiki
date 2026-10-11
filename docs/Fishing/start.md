@@ -131,7 +131,7 @@ From there, you can sell eligible fish and receive money.
 
 !!! warning
 
-ArteryX has a **$50,000 daily fishing money limit**.
+ArteryX has a **$100,000 daily fishing money limit**.
 
 Once you reach the daily limit, you cannot continue generating fishing money until the limit resets.
 

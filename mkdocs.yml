@@ -67,6 +67,9 @@ nav:
       - Voting: community/voting.md
       - Rewards: community/rewards.md
 
+  - Frontier:
+      - Frontier: Frontier/mine.md
+
 
 plugins:
   - search
